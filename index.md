@@ -19,7 +19,7 @@ El propósito principal de A.A. es ayudar a los alcohólicos a alcanzar la sobri
 
 📍 Geneva, Switzerland 🇨🇭 -- Viernes a las 19:30hs
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2761.494057440981!2d6.1371918999999995!3d46.200625900000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c64d456a621d5%3A0x2a019a284086221c!2zUnVlIGR1IFZpZXV4LUJpbGxhcmQgMjMsIDEyMDUgR2Vuw6h2ZSwg0KjQstC10LnRhtCw0YDRltGP!5e0!3m2!1suk!2sua!4v1696952217318!5m2!1suk!2sua" width="810" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2761.494057440981!2d6.1371918999999995!3d46.200625900000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c64d456a621d5%3A0x2a019a284086221c!2zUnVlIGR1IFZpZXV4LUJpbGxhcmQgMjMsIDEyMDUgR2Vuw6h2ZSwg0KjQstC10LnRhtCw0YDRltGP!5e0!3m2!1suk!2sua!4v1696952217318!5m2!1suk!2sua&language=es" width="810" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 Rue du Vieux-Billard 23, Genève [<img src="assets/images/map.png" alt="Google map" loading="lazy" style="width: 100vw; height: auto">](https://maps.app.goo.gl/VauCjny674n1XKrE8){: target='_blanc'}
 
