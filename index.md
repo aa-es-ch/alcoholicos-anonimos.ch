@@ -28,7 +28,7 @@ Si necesita ayuda con un problema de alcohol, llame gratis a nuestra línea de a
 ## Contáctanos
 {: #contacts}
 
-For more information, please contact us
+Para más información, contactar a:
 
 [AA Inglés Geneva](https://www.aageneva.org/)
 
