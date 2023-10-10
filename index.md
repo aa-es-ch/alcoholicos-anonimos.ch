@@ -38,9 +38,9 @@ For more information, please contact us
 
 ☎️ +41-32-511-6967
 
-[AA Francés](http://www.aasri.org/)
+[AA Francés](http://www.aasri.ch/)
 
-☎️ +41-61-333-5555
+☎️ 0848-848-846
 
 [AA Alemán](https://www.anonyme-alkoholiker.ch/)
 
