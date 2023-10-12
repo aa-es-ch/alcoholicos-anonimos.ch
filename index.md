@@ -10,14 +10,14 @@ description:
 
 ## Qué es A.A.?
 
-Alcohólicos Anónimos es una comunidad de personas que se unen para resolver su problema con la bebida. No cuesta nada asistir a las reuniones de A.A. No hay requisitos de edad o educación para participar. La membresía está abierta para cualquiera que desee hacer algo respecto a su problema con el alcohol.
+Alcohólicos Anónimos es una comunidad de hombres y mujeres que comparten su mutua experiencia, fortaleza y esperanza para resolver su problema común y ayudar a otros a recuperarse del alcoholismo. El único requisito para ser miembro de AA es el deseo de dejar la bebida. Para ser miembro de AA no se pagan honorarios ni cuotas; nos mantenemos con nuestras propias contribuciones. AA no está afiliada a ninguna secta, religión, partido politico, organización o institución alguna; no desea intervenir en controversias; no repalda ni se opone a ninguna causa.
 
-El propósito principal de A.A. es ayudar a los alcohólicos a alcanzar la sobriedad.
+Nuestro objetivo primordial es mantenernos sobrios y ayudar a otros alcohólicos a alcanzar el estado de sobriedad.
 
 ## Reuniones de AA
 {: #meeting}
 
-📍 Geneva, Switzerland 🇨🇭 -- Viernes a las 19:30hs
+📍 Ginebra, Suiza 🇨🇭 -- Viernes a las 19:30hs
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2761.494057440981!2d6.1371918999999995!3d46.200625900000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c64d456a621d5%3A0x2a019a284086221c!2sRue%20du%20Vieux-Billard%2023%2C%201205%20Gen%C3%A8ve!5e0!3m2!1ses!2sch!4v1696961313034!5m2!1ses!2sch" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
