@@ -25,27 +25,18 @@ Rue du Vieux-Billard 23, Genève
 
 Si necesita ayuda con un problema de alcohol, llame gratis a nuestra línea de ayuda nacional. Hay varias opciones dependiendo el idioma con el que se sienta cómodo.
 
-## Contáctanos
+## Llámanos
 {: #contacts}
 
-Para más información, contactar a:
+# ☎️ AA Español: +41-76-321-0762
+{: .main-phone}
 
-[AA Inglés Geneva](https://www.aageneva.org/)
+### Otros números de contacto:
 
-☎️ +41-79-466-5330
+[AA Inglés Geneva](https://www.aageneva.org/) - ☎️ +41-79-466-5330
 
-[AA Inglés Zurich](https://aazurich.org/)
+[AA Inglés Zurich](https://aazurich.org/) - ☎️ +41-32-511-6967
 
-☎️ +41-32-511-6967
+[AA Francés](http://www.aasri.ch/) - ☎️ 0848-848-846
 
-[AA Francés](http://www.aasri.ch/)
-
-☎️ 0848-848-846
-
-[AA Alemán](https://www.anonyme-alkoholiker.ch/)
-
-☎️ 0848-848-885
-
-[AA Español](#)
-
-☎️ +41-76-321-0762
+[AA Alemán](https://www.anonyme-alkoholiker.ch/) - ☎️ 0848-848-885
