@@ -17,7 +17,7 @@ Nuestro objetivo primordial es mantenernos sobrios y ayudar a otros alcohólicos
 ## Reuniones de AA
 {: #meeting}
 
-📍 Ginebra, Suiza 🇨🇭 -- Viernes a las 19:30hs
+📍 Ginebra, Suiza 🇨🇭 -- Martes a las 18:30hs
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2761.494057440981!2d6.1371918999999995!3d46.200625900000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c64d456a621d5%3A0x2a019a284086221c!2sRue%20du%20Vieux-Billard%2023%2C%201205%20Gen%C3%A8ve!5e0!3m2!1ses!2sch!4v1696961313034!5m2!1ses!2sch" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
